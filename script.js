@@ -1,4 +1,4 @@
-const owner="Norrell1",repo="norrell-blog",branch="main";
+const owner="Norrell1",repo="norrell1.github.io",branch="main";
 const list=document.querySelector("#posts"),count=document.querySelector("#count");
 async function loadPosts(){
   try{
